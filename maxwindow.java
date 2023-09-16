@@ -35,4 +35,4 @@ public class maxwindow {
         System.out.println();
     }
 }
-
+// the code is completed and it will be used for sliding window
